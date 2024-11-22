@@ -30,5 +30,5 @@ const App = () => {
     </div>
   )
 }
-
+// comment added for testing github connnectivity
 export default App
